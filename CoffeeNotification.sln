@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5D0C2896-3DB4-40B3-8925-6661BF970D6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coffee.Notification.API", "Coffee.Notification.API\Coffee.Notification.API.csproj", "{0302121B-1764-4C6D-8673-0F0811750471}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0302121B-1764-4C6D-8673-0F0811750471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0302121B-1764-4C6D-8673-0F0811750471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0302121B-1764-4C6D-8673-0F0811750471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0302121B-1764-4C6D-8673-0F0811750471}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0302121B-1764-4C6D-8673-0F0811750471} = {5D0C2896-3DB4-40B3-8925-6661BF970D6B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F45FB3BD-88B9-4F50-912F-9D2FED2ED45A}
+	EndGlobalSection
+EndGlobal
